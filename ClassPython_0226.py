@@ -18,3 +18,5 @@ rectangle = Rectangle(3, 2)
 print(rectangle)
 
 print("Circumference:", rectangle.circumference(), "cm")
+
+print("Area:", rectangle.area(), "cm^2")
