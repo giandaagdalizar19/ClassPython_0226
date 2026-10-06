@@ -14,3 +14,5 @@ class Rectangle:
         return f"Rectangle, {self.length} cm long, and {self.width} cm wide"
 
 rectangle = Rectangle(3, 2)
+
+print(rectangle)
